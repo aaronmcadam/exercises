@@ -1,4 +1,4 @@
-require "fizz_buzz"
+require "./fizz_buzz"
 
 describe FizzBuzz do
   describe "#call" do
